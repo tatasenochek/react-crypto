@@ -1,2 +1,11 @@
+logs
+*.log
+npm-debug.log*
+
 node_modules
-.vscode
+dist
+dist-ssr
+*.local
+
+.vscode/*
+
